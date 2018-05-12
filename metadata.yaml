@@ -1,0 +1,31 @@
+_repo: Stories-of-Many-Lands_26736
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26736-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Greenwood, Grace
+    aliases:
+    - Lippincott, Sara Jane Clarke
+    - Clarke, Sarah J. (Sarah Jane)
+    birthdate: 1823
+    deathdate: 1904
+    gutenberg_agent_id: '2057'
+    url: http://www.gutenberg.org/2009/agents/2057
+description: ''
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Charades'
+title: Stories of Many Lands
+url: http://www.gutenberg.org/ebooks/26736
